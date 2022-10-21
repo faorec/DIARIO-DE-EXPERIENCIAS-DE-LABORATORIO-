@@ -1,0 +1,15 @@
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/obj/Debug/net6.0/L2_FAOC_1024822.csproj.AssemblyReference.cache
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/obj/Debug/net6.0/L2_FAOC_1024822.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/obj/Debug/net6.0/L2_FAOC_1024822.AssemblyInfoInputs.cache
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/obj/Debug/net6.0/L2_FAOC_1024822.AssemblyInfo.cs
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/obj/Debug/net6.0/L2_FAOC_1024822.csproj.CoreCompileInputs.cache
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/bin/Debug/net6.0/L2_FAOC_1024822
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/bin/Debug/net6.0/L2_FAOC_1024822.deps.json
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/bin/Debug/net6.0/L2_FAOC_1024822.runtimeconfig.json
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/bin/Debug/net6.0/L2_FAOC_1024822.dll
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/bin/Debug/net6.0/L2_FAOC_1024822.pdb
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/obj/Debug/net6.0/L2_FAOC_1024822.dll
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/obj/Debug/net6.0/refint/L2_FAOC_1024822.dll
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/obj/Debug/net6.0/L2_FAOC_1024822.pdb
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/obj/Debug/net6.0/L2_FAOC_1024822.genruntimeconfig.cache
+/Users/frydaorellana/Desktop/lab progra/L2_FAOC_1024822/L2_FAOC_1024822/obj/Debug/net6.0/ref/L2_FAOC_1024822.dll
