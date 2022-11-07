@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/frydaorellana/Desktop/lab progra/L12_FAOC_1024822/L2_FAOC_1024822/L2_FAOC_1024822.csproj": {}
+    "/Users/frydaorellana/Desktop/lab progra/11.0.0/L12_FAOC_1024822/L2_FAOC_1024822/L2_FAOC_1024822.csproj": {}
   },
   "projects": {
-    "/Users/frydaorellana/Desktop/lab progra/L12_FAOC_1024822/L2_FAOC_1024822/L2_FAOC_1024822.csproj": {
+    "/Users/frydaorellana/Desktop/lab progra/11.0.0/L12_FAOC_1024822/L2_FAOC_1024822/L2_FAOC_1024822.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/frydaorellana/Desktop/lab progra/L12_FAOC_1024822/L2_FAOC_1024822/L2_FAOC_1024822.csproj",
+        "projectUniqueName": "/Users/frydaorellana/Desktop/lab progra/11.0.0/L12_FAOC_1024822/L2_FAOC_1024822/L2_FAOC_1024822.csproj",
         "projectName": "L2_FAOC_1024822",
-        "projectPath": "/Users/frydaorellana/Desktop/lab progra/L12_FAOC_1024822/L2_FAOC_1024822/L2_FAOC_1024822.csproj",
+        "projectPath": "/Users/frydaorellana/Desktop/lab progra/11.0.0/L12_FAOC_1024822/L2_FAOC_1024822/L2_FAOC_1024822.csproj",
         "packagesPath": "/Users/frydaorellana/.nuget/packages/",
-        "outputPath": "/Users/frydaorellana/Desktop/lab progra/L12_FAOC_1024822/L2_FAOC_1024822/obj/",
+        "outputPath": "/Users/frydaorellana/Desktop/lab progra/11.0.0/L12_FAOC_1024822/L2_FAOC_1024822/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/frydaorellana/.nuget/NuGet/NuGet.Config"
